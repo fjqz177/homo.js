@@ -6,7 +6,10 @@
 
 ## 🌎 项目首页
 
+vercel:
 [https://homo-js-fjqz177.vercel.app/](https://homo-js-fjqz177.vercel.app/)
+Github Pages:
+[https://fjqz177.top/homo.js/](https://fjqz177.top/homo.js/)
 
 ## 📦️ 调用说明
 
