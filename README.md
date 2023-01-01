@@ -2,11 +2,11 @@
 
 一个将任意数字解构成 114514 组合公式的工具。
 
-[![vercel](https://vercelbadge.soraharu.com/?app=homo-js)](https://homo.soraharu.com/)
+[![vercel](https://img.shields.io/badge/vercel-4479A1?style=flat-square&logo=vercel&logoColor=white)](https://homo-js-fjqz177.vercel.app/)
 
 ## 🌎 项目首页
 
-[https://homo.soraharu.com/](https://homo.soraharu.com/)
+[https://homo-js-fjqz177.vercel.app/](https://homo-js-fjqz177.vercel.app/)
 
 ## 📦️ 调用说明
 
