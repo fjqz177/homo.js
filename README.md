@@ -2,13 +2,9 @@
 
 一个将任意数字解构成 114514 组合公式的工具。
 
-[![vercel](https://img.shields.io/badge/vercel-4479A1?style=flat-square&logo=vercel&logoColor=white)](https://homo-js-fjqz177.vercel.app/)
-
 ## 🌎 项目首页
 
-vercel:
-[https://homo-js-fjqz177.vercel.app/](https://homo-js-fjqz177.vercel.app/)
-Github Pages:
+Github Pages:  
 [https://fjqz177.top/homo.js/](https://fjqz177.top/homo.js/)
 
 ## 📦️ 调用说明
