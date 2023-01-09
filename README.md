@@ -4,8 +4,8 @@
 
 ## 🌎 项目首页
 
-Github Pages:  
-[https://fjqz177.top/homo.js/](https://fjqz177.top/homo.js/)
+Cloudflare Pages:  
+[homo-js.pages.dev](https://homo-js.pages.dev/)
 
 ## 📦️ 调用说明
 
